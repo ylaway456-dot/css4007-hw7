@@ -1,0 +1,109 @@
+Seed,Games,Method,State,Visits,Value,Status
+11,100,Model-Based,"(20, 10, False)",6,0.3333333333333333,Estimated
+11,100,Model-Based,"(19, 10, False)",7,-0.29523809523809524,Estimated
+11,100,Model-Based,"(12, 4, True)",0,,Unobserved
+11,100,Model-Based,"(12, 8, True)",0,,Unobserved
+11,100,Monte Carlo,"(20, 10, False)",6,0.3333333333333333,Estimated
+11,100,Monte Carlo,"(19, 10, False)",7,-0.2857142857142857,Estimated
+11,100,Monte Carlo,"(12, 4, True)",0,,Unobserved
+11,100,Monte Carlo,"(12, 8, True)",0,,Unobserved
+11,100,TD(0),"(20, 10, False)",6,0.1729,Estimated
+11,100,TD(0),"(19, 10, False)",7,-0.279459,Estimated
+11,100,TD(0),"(12, 4, True)",0,,Unobserved
+11,100,TD(0),"(12, 8, True)",0,,Unobserved
+11,1000,Model-Based,"(20, 10, False)",60,0.4666666666666667,Estimated
+11,1000,Model-Based,"(19, 10, False)",61,-0.6649852879361076,Estimated
+11,1000,Model-Based,"(12, 4, True)",0,,Unobserved
+11,1000,Model-Based,"(12, 8, True)",0,,Unobserved
+11,1000,Monte Carlo,"(20, 10, False)",60,0.4666666666666667,Estimated
+11,1000,Monte Carlo,"(19, 10, False)",61,-0.6885245901639344,Estimated
+11,1000,Monte Carlo,"(12, 4, True)",0,,Unobserved
+11,1000,Monte Carlo,"(12, 8, True)",0,,Unobserved
+11,1000,TD(0),"(20, 10, False)",60,0.5111009581111883,Estimated
+11,1000,TD(0),"(19, 10, False)",61,-0.7754312076014195,Estimated
+11,1000,TD(0),"(12, 4, True)",0,,Unobserved
+11,1000,TD(0),"(12, 8, True)",0,,Unobserved
+11,10000,Model-Based,"(20, 10, False)",606,0.4158415841584158,Estimated
+11,10000,Model-Based,"(19, 10, False)",447,-0.7285333452213627,Estimated
+11,10000,Model-Based,"(12, 4, True)",1,-0.6659898680682773,Estimated
+11,10000,Model-Based,"(12, 8, True)",1,-0.11397897657779849,Estimated
+11,10000,Monte Carlo,"(20, 10, False)",606,0.4158415841584158,Estimated
+11,10000,Monte Carlo,"(19, 10, False)",447,-0.7360178970917226,Estimated
+11,10000,Monte Carlo,"(12, 4, True)",1,-1.0,Estimated
+11,10000,Monte Carlo,"(12, 8, True)",1,-1.0,Estimated
+11,10000,TD(0),"(20, 10, False)",606,0.43929552797343135,Estimated
+11,10000,TD(0),"(19, 10, False)",447,-0.7230876053132103,Estimated
+11,10000,TD(0),"(12, 4, True)",1,-0.07446210444577427,Estimated
+11,10000,TD(0),"(12, 8, True)",1,-0.0071714624248981566,Estimated
+22,100,Model-Based,"(20, 10, False)",4,0.5,Estimated
+22,100,Model-Based,"(19, 10, False)",2,-0.25,Estimated
+22,100,Model-Based,"(12, 4, True)",0,,Unobserved
+22,100,Model-Based,"(12, 8, True)",0,,Unobserved
+22,100,Monte Carlo,"(20, 10, False)",4,0.5,Estimated
+22,100,Monte Carlo,"(19, 10, False)",2,-0.5,Estimated
+22,100,Monte Carlo,"(12, 4, True)",0,,Unobserved
+22,100,Monte Carlo,"(12, 8, True)",0,,Unobserved
+22,100,TD(0),"(20, 10, False)",4,0.1729,Estimated
+22,100,TD(0),"(19, 10, False)",2,-0.081,Estimated
+22,100,TD(0),"(12, 4, True)",0,,Unobserved
+22,100,TD(0),"(12, 8, True)",0,,Unobserved
+22,1000,Model-Based,"(20, 10, False)",65,0.4,Estimated
+22,1000,Model-Based,"(19, 10, False)",46,-0.825858123569794,Estimated
+22,1000,Model-Based,"(12, 4, True)",0,,Unobserved
+22,1000,Model-Based,"(12, 8, True)",0,,Unobserved
+22,1000,Monte Carlo,"(20, 10, False)",65,0.4,Estimated
+22,1000,Monte Carlo,"(19, 10, False)",46,-0.8043478260869565,Estimated
+22,1000,Monte Carlo,"(12, 4, True)",0,,Unobserved
+22,1000,Monte Carlo,"(12, 8, True)",0,,Unobserved
+22,1000,TD(0),"(20, 10, False)",65,0.2852321207521159,Estimated
+22,1000,TD(0),"(19, 10, False)",46,-0.9286027379478339,Estimated
+22,1000,TD(0),"(12, 4, True)",0,,Unobserved
+22,1000,TD(0),"(12, 8, True)",0,,Unobserved
+22,10000,Model-Based,"(20, 10, False)",633,0.41706161137440756,Estimated
+22,10000,Model-Based,"(19, 10, False)",441,-0.7742293141634771,Estimated
+22,10000,Model-Based,"(12, 4, True)",2,-0.6156084754213591,Estimated
+22,10000,Model-Based,"(12, 8, True)",10,-0.21024656658654692,Estimated
+22,10000,Monte Carlo,"(20, 10, False)",633,0.41706161137440756,Estimated
+22,10000,Monte Carlo,"(19, 10, False)",441,-0.780045351473923,Estimated
+22,10000,Monte Carlo,"(12, 4, True)",2,-0.5,Estimated
+22,10000,Monte Carlo,"(12, 8, True)",10,0.0,Estimated
+22,10000,TD(0),"(20, 10, False)",633,0.09364138399223257,Estimated
+22,10000,TD(0),"(19, 10, False)",441,-0.8322545800462924,Estimated
+22,10000,TD(0),"(12, 4, True)",2,-0.04358930322914453,Estimated
+22,10000,TD(0),"(12, 8, True)",10,-0.08994093278776827,Estimated
+33,100,Model-Based,"(20, 10, False)",5,0.8,Estimated
+33,100,Model-Based,"(19, 10, False)",4,-0.55,Estimated
+33,100,Model-Based,"(12, 4, True)",0,,Unobserved
+33,100,Model-Based,"(12, 8, True)",0,,Unobserved
+33,100,Monte Carlo,"(20, 10, False)",5,0.8,Estimated
+33,100,Monte Carlo,"(19, 10, False)",4,-0.5,Estimated
+33,100,Monte Carlo,"(12, 4, True)",0,,Unobserved
+33,100,Monte Carlo,"(12, 8, True)",0,,Unobserved
+33,100,TD(0),"(20, 10, False)",5,0.32851,Estimated
+33,100,TD(0),"(19, 10, False)",4,-0.2268,Estimated
+33,100,TD(0),"(12, 4, True)",0,,Unobserved
+33,100,TD(0),"(12, 8, True)",0,,Unobserved
+33,1000,Model-Based,"(20, 10, False)",70,0.37142857142857144,Estimated
+33,1000,Model-Based,"(19, 10, False)",49,-0.6762258150013253,Estimated
+33,1000,Model-Based,"(12, 4, True)",1,-0.4952133961366916,Estimated
+33,1000,Model-Based,"(12, 8, True)",0,,Unobserved
+33,1000,Monte Carlo,"(20, 10, False)",70,0.37142857142857144,Estimated
+33,1000,Monte Carlo,"(19, 10, False)",49,-0.6530612244897959,Estimated
+33,1000,Monte Carlo,"(12, 4, True)",1,1.0,Estimated
+33,1000,Monte Carlo,"(12, 8, True)",0,,Unobserved
+33,1000,TD(0),"(20, 10, False)",70,0.518775483751841,Estimated
+33,1000,TD(0),"(19, 10, False)",49,-0.6877451860851964,Estimated
+33,1000,TD(0),"(12, 4, True)",1,0.0,Estimated
+33,1000,TD(0),"(12, 8, True)",0,,Unobserved
+33,10000,Model-Based,"(20, 10, False)",616,0.45454545454545453,Estimated
+33,10000,Model-Based,"(19, 10, False)",496,-0.7477616699473748,Estimated
+33,10000,Model-Based,"(12, 4, True)",4,-0.5742300030722787,Estimated
+33,10000,Model-Based,"(12, 8, True)",5,-0.2309297011818076,Estimated
+33,10000,Monte Carlo,"(20, 10, False)",616,0.45454545454545453,Estimated
+33,10000,Monte Carlo,"(19, 10, False)",496,-0.7379032258064516,Estimated
+33,10000,Monte Carlo,"(12, 4, True)",4,0.0,Estimated
+33,10000,Monte Carlo,"(12, 8, True)",5,-0.6,Estimated
+33,10000,TD(0),"(20, 10, False)",616,0.4925601112242385,Estimated
+33,10000,TD(0),"(19, 10, False)",496,-0.7857580591009701,Estimated
+33,10000,TD(0),"(12, 4, True)",4,-0.10359002732532407,Estimated
+33,10000,TD(0),"(12, 8, True)",5,-0.031361235179145484,Estimated
