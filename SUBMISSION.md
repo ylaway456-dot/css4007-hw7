@@ -14,7 +14,7 @@ I used ChatGPT to understand the assignment, explain reinforcement-learning meth
 
 ## Part A — Count states and actions
 
-Original handwritten answers: [`paper/Part_A.pdf`](paper/Part_A.pdf). The paper includes examples and calculations for Blackjack, Durak, tic-tac-toe and Nim.
+Original handwritten answers: Part A.pdf. The paper includes examples and calculations for Blackjack, Durak, tic-tac-toe and Nim.
 
 | Game | Representation | State-count formula | Type of count | Action representation | Legal actions in example | Hidden information |
 | --- | --- | --- | --- | --- | --- | --- |
