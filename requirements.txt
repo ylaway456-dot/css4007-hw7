@@ -1,0 +1,4 @@
+gymnasium==1.4.0
+pandas==2.2.3
+numpy
+matplotlib
