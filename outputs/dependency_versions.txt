@@ -1,0 +1,3 @@
+Python: 3.13.18
+Pandas: 2.2.3
+Gymnasium: 1.4.0
