@@ -2,7 +2,7 @@
 
 ## AI-use declaration
 
-I used ChatGPT to understand the assignment, explain reinforcement-learning methods, help write and debug Python code, organize notebook explanations, and check results. I performed the paper calculations on my tablet and ran the experiments in Google Colab. I reviewed the generated outputs.
+I used ChatGPT to understand the assignment, explain reinforcement-learning methods, help write and debug Python code.
 
 ## Setup and reproduction
 
